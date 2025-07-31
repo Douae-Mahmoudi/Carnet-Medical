@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "categorie": "Nutrition",
+    "titre": "Mangez équilibré",
+    "description": "Privilégiez les fruits, légumes, céréales complètes et protéines maigres. Limitez les sucres ajoutés et les graisses saturées."
+  },
+  {
+    "id": "2",
+    "categorie": "Activité physique",
+    "titre": "Faites 30 minutes de marche",
+    "description": "Une marche rapide de 30 minutes par jour améliore la santé cardiovasculaire et l'humeur."
+  },
+  {
+    "id": "3",
+    "categorie": "Sommeil",
+    "titre": "Dormez 7 à 9 heures par nuit",
+    "description": "Un sommeil suffisant est crucial pour la récupération physique et mentale. Établissez une routine de sommeil régulière."
+  },
+  {
+    "id": "4",
+    "categorie": "Nutrition",
+    "titre": "Buvez 1,5L d'eau",
+    "description": "L'hydratation est essentielle pour le bon fonctionnement de l'organisme. Buvez de l'eau tout au long de la journée."
+  },
+  {
+    "id": "5",
+    "categorie": "Activité physique",
+    "titre": "Intégrez des étirements",
+    "description": "Les étirements améliorent la flexibilité et réduisent les risques de blessures. Pratiquez-les avant et après l'exercice."
+  },
+  {
+    "id": "6",
+    "categorie": "Sommeil",
+    "titre": "Évitez les écrans avant de dormir",
+    "description": "La lumière bleue des écrans peut perturber la production de mélatonine. Éteignez les écrans au moins une heure avant le coucher."
+  },
+  {
+    "id": "7",
+    "categorie": "Nutrition",
+    "titre": "Réduisez votre consommation de sel",
+    "description": "Une consommation excessive de sel peut entraîner de l'hypertension. Privilégiez les herbes et épices pour assaisonner vos plats."
+  },
+  {
+    "id": "8",
+    "categorie": "Activité physique",
+    "titre": "Essayez une nouvelle activité",
+    "description": "La variété maintient la motivation. Explorez la natation, le vélo, la danse ou le yoga pour diversifier votre routine."
+  },
+  {
+    "id": "9",
+    "categorie": "Sommeil",
+    "titre": "Créez un environnement propice au sommeil",
+    "description": "Assurez-vous que votre chambre est sombre, calme et fraîche. Évitez la caféine et les repas lourds avant le coucher."
+  }
+]

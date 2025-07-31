@@ -1,0 +1,32 @@
+{
+  "antecedents": [
+    "Hypertension artérielle (diagnostiquée en 2020)",
+    "Appendicectomie (2010)",
+    "Fracture du radius (2015)"
+  ],
+  "allergies": [
+    "Pénicilline",
+    "Pollens",
+    "Acariens"
+  ],
+  "traitements": [
+    {
+      "nom": "Amlodipine",
+      "posologie": "5mg/jour",
+      "debut": "2020-03-01",
+      "fin": null
+    },
+    {
+      "nom": "Antihistaminique",
+      "posologie": "1 comprimé/jour (saisonnière)",
+      "debut": "2025-04-01",
+      "fin": "2025-06-30"
+    },
+    {
+      "nom": "Vitamine D",
+      "posologie": "1000 UI/jour",
+      "debut": "2024-09-01",
+      "fin": null
+    }
+  ]
+}

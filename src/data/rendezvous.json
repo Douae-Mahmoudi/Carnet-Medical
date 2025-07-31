@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "type": "Consultation générale",
+    "date": "2025-07-28T10:00:00Z",
+    "medecin": "Dr. Vincent Honoré",
+    "specialite": "Médecin Généraliste",
+    "lieu": "Cabinet Médical",
+    "statut": "passé"
+  },
+  {
+    "id": "2",
+    "type": "Examen sanguin",
+    "date": "2025-08-10T09:30:00Z",
+    "medecin": "John Adel",
+    "specialite": "Biologie",
+    "lieu": "Laboratoire d'analyses de biologie médicale",
+    "statut": "à venir"
+  },
+  {
+    "id": "3",
+    "type": "Rendez-vous cardiologue",
+    "date": "2025-09-01T14:00:00Z",
+    "medecin": "Dr. Sophie Martin",
+    "specialite": "Cardiologie",
+    "lieu": "Clinique du Cœur",
+    "statut": "à venir"
+  },
+  {
+    "id": "4",
+    "type": "Suivi dermatologique",
+    "date": "2025-07-15T11:00:00Z",
+    "medecin": "Dr. Pierre Dubois",
+    "specialite": "Dermatologie",
+    "lieu": "Centre Dermatologique",
+    "statut": "passé"
+  },
+  {
+    "id": "5",
+    "type": "Consultation pédiatrique",
+    "date": "2025-07-20T16:00:00Z",
+    "medecin": "Dr. Anne Leblanc",
+    "specialite": "Pédiatrie",
+    "lieu": "Cabinet Pédiatrique",
+    "statut": "passé"
+  },
+  {
+    "id": "6",
+    "type": "Vaccination",
+    "date": "2025-08-25T10:00:00Z",
+    "medecin": "Infirmière Sophie ",
+    "specialite": "Infirmière",
+    "lieu": "Centre de Santé",
+    "statut": "à venir"
+  }
+]
